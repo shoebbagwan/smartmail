@@ -28,8 +28,13 @@ cd SmartMail
 Create and activate a virtual environment (optional but recommended):
 
 python -m venv venv
+
 source venv/bin/activate    # On macOS/Linux
+
+
 venv\Scripts\activate       # On Windows
+
+
 Install dependencies:
 
 pip install -r requirements.txt
